@@ -1,5 +1,4 @@
 .wrangler
-dist
 node_modules
 examples/**/build
 test/artifacts/*
